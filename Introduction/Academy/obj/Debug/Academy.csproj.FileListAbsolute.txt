@@ -8,3 +8,5 @@ C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.
 C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.exe
 C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.pdb
 C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.Form1.resources
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.AddStudent.resources
+C:\Users\Александр\source\repos\Introduction\Academy\obj\Debug\Academy.AddGroup.resources
